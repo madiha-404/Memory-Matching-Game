@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://YOUR_USERNAME.github.io/Memory-Matching-Game/)
+## <b> [Click here to Play the GAME!!]([https://YOUR_USERNAME.github.io/Memory-Matching-Game/](https://madiha-404.github.io/Memory-Matching-Game/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
